@@ -1,0 +1,7 @@
+pip install opencv-python
+pip install sys
+pip install os
+pip install imutils
+pip install face_recognition
+pip install pickle
+pip install PyQt5
